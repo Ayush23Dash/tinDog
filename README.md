@@ -1,2 +1,2 @@
 # TinDog
-A cute Tinder front end for dogs!
+A cute front end only Tinder for dogs!
